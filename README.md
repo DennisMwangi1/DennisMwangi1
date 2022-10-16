@@ -16,7 +16,7 @@
   <img src="https://komarev.com/ghpvc/?username=DennisMwangi1&style=flat-square&color=blue" alt="" height="20"/>
 </div>
 <h1>
-  Hey there
+  Hey there i'm Dennis
   <img src="https://media.giphy.com/media/LuVMhu0a2B1Go/giphy.gif" width="150"/>
 </h1>
 
