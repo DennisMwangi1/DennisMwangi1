@@ -25,7 +25,7 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya
 
 
-- 🔭 I’m currently a student at moringa school
+- 🔭 I’m currently a junior developer at Megatherium
 - 🌱 I’m currently learning frontend and backend web development
 - 👯 I’m looking to collaborate on frontend development projects
 - 🤔 I’m looking for help with android development
